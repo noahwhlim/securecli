@@ -44,5 +44,5 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/securecli.git
+git clone https://github.com/noahwhlim/securecli.git
 cd securecli
